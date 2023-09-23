@@ -5,7 +5,7 @@ const Hero = () => {
         <div className="hero">
           <div className="hero-content flex-col lg:flex-row-reverse justify-between w-full max-w-full p-0 gap-6">
             <img
-              src="/assets/images/user.png"
+              src="/assets/images/profile.jpg"
               className="w-full max-w-lg flex-1"
             />
             <div className="flex-1">
